@@ -16,9 +16,10 @@ header{
 
 header h1{
     z-index:999;
-    font-size:2em;
+    font-size:1.8em;
     position:absolute ;
     left:15%;
+    top:-10px;
     
 }
 
@@ -26,7 +27,7 @@ header h1{
    font-size:2em;
    position:absolute;
   left:5%;
-   top:5%;
+   top:10%;
    
 }
 
